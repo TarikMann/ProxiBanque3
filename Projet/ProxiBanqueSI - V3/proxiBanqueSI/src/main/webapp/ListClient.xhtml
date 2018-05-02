@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:p="http://primefaces.org/ui">
+
+<h:head>
+
+</h:head>
+<h:body>
+	<ui:composition template="templates/common.xhtml">
+		<ui:define name="content">
+
+			<h:form id="formDataTable">
+				<center>
+					<p:panel header="Liste des CLients" style="width: 300;">
+						<p:dataTable var="monClient" value="#{clientBean.maListClient}">
+
+
+							<p:column headerText="Id">
+								<h:outputText value="#{monClient.id}" />
+							</p:column>
+
+							<p:column headerText="nom">
+								<h:outputText value="#{monClient.nom}" />
+							</p:column>
+
+							<p:column headerText="prenom">
+								<h:outputText value="#{monClient.prenom}" />
+							</p:column>
+
+							<p:column headerText="adresse">
+								<h:outputText value="#{monClient.adresse}" />
+							</p:column>
+
+							<p:column headerText="Gestion">
+
+
+								<p:commandButton id="updateClient" value="Afficher"
+									action="#{clientBean.selectClient}">
+									<f:param name="action" value="#{monClient.id}" />
+								</p:commandButton>
+								<p:commandButton id="deleteClient" value="Supprimer"
+									action="#{clientBean.deleteClient(monClient)}" />
+
+							</p:column>
+						</p:dataTable>
+					</p:panel>
+					<div>
+						<h:messages style="color:red"></h:messages>
+					</div>
+				</center>
+			</h:form>
+		</ui:define>
+	</ui:composition>
+</h:body>
+</html>

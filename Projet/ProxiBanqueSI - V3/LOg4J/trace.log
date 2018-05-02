@@ -1,0 +1,191 @@
+2018-04-26 15:23:15 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:23:15 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:23:15 INFO  ConseillerDAO:61 - Connection ok pour l'utilisateur: Conseiller [ id : 4-- prenom : Nelson--nom :Mandela]
+2018-04-26 15:23:15 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:23:15 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:23:15 INFO  ClientDAO:72 - Connection ok pour l'utilisateur 
+2018-04-26 15:23:15 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:23:15 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:23:15 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:23:15 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:23:15 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:23:15 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:23:15 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:23:15 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:23:15 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:23:15 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:23:15 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:23:15 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:23:37 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:23:37 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:23:43 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:23:43 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:10 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:10 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:10 INFO  ConseillerDAO:61 - Connection ok pour l'utilisateur: Conseiller [ id : 4-- prenom : Nelson--nom :Mandela]
+2018-04-26 15:24:10 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:10 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:10 INFO  ClientDAO:72 - Connection ok pour l'utilisateur 
+2018-04-26 15:24:10 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:10 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:10 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:10 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:10 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:10 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:24:10 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:10 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:24:10 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:10 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:24:10 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:10 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:24:14 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:14 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:14 INFO  ClientDAO:72 - Connection ok pour l'utilisateur 
+2018-04-26 15:24:14 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:14 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:14 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:14 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:14 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:14 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:24:14 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:14 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:24:14 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:14 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:24:14 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:14 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:24:21 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:21 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:28 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:28 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:28 INFO  ConseillerDAO:61 - Connection ok pour l'utilisateur: Conseiller [ id : 4-- prenom : Nelson--nom :Mandela]
+2018-04-26 15:24:28 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:28 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:28 INFO  ClientDAO:72 - Connection ok pour l'utilisateur 
+2018-04-26 15:24:28 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:28 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:28 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:28 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:28 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:28 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:24:28 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:28 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:24:28 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:28 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:24:28 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:28 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:24:48 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:48 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:48 INFO  ClientDAO:72 - Connection ok pour l'utilisateur 
+2018-04-26 15:24:48 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:48 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:24:48 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:48 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:48 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:48 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:24:48 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:48 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:24:48 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:48 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:24:48 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:24:48 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:07 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:07 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:24 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:24 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:24 INFO  ConseillerDAO:61 - Connection ok pour l'utilisateur: Conseiller [ id : 4-- prenom : Nelson--nom :Mandela]
+2018-04-26 15:25:24 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:24 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:24 INFO  ClientDAO:72 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:24 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:24 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:24 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:24 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:24 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:24 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:24 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:24 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:24 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:24 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:24 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:24 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:26 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:26 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:26 INFO  ClientDAO:108 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:26 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:26 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:27 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:27 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:27 INFO  ClientDAO:72 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:27 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:27 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:27 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:27 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:27 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:27 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:27 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:27 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:27 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:27 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:27 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:27 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:29 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:29 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:29 INFO  ClientDAO:108 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:29 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:29 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:34 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:34 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:34 INFO  ClientDAO:72 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:34 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:34 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:34 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:34 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:34 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:34 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:34 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:34 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:34 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:34 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:34 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:34 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:35 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:35 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:35 INFO  ClientDAO:108 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:35 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:35 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:35 INFO  CompteBancaireDAO:161 - Connection ok pour l'utilisateur
+2018-04-26 15:25:57 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:57 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:57 INFO  ClientDAO:72 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:57 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:57 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:57 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:57 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:57 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:57 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:57 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:57 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:57 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:57 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:57 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:25:57 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:59 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:59 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:59 INFO  ClientDAO:108 - Connection ok pour l'utilisateur 
+2018-04-26 15:25:59 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:25:59 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:26:01 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:26:01 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:26:01 INFO  ClientDAO:72 - Connection ok pour l'utilisateur 
+2018-04-26 15:26:01 INFO  ConnectionSQL:89 - Connection ok pour l'utilisateur: root
+2018-04-26 15:26:01 INFO  ConnectionSQL:101 - Connection ok pour l'utilisateur: root
+2018-04-26 15:26:01 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:26:01 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:26:01 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:26:01 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:26:01 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:26:01 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:26:01 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:26:01 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 
+2018-04-26 15:26:01 INFO  CompteBancaireDAO:106 - Connection ok pour l'utilisateur
+2018-04-26 15:26:01 INFO  CompteBancaireDAO:92 - Connection ok pour l'utilisateur 

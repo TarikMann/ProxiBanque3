@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:p="http://primefaces.org/ui">
+
+<h:head>
+
+</h:head>
+<h:body>
+	<ui:composition template="templates/common.xhtml">
+		<ui:define name="content">
+
+
+			<center>
+
+				<p:panel header="affichage du client" style="width: 350px;">
+
+
+					<h:form>
+						<table>
+							<tr>
+								<td>Id :</td>
+								<td><h:inputText value="#{monObjet.id}" /></td>
+							</tr>
+							<tr>
+								<td>nom :</td>
+								<td><h:inputText value="#{monObjet.nom}" /></td>
+							</tr>
+							<tr>
+								<td>prenom :</td>
+								<td><h:inputText value="#{monObjet.prenom}"></h:inputText>
+								</td>
+							</tr>
+							<tr>
+								<td>adresse :</td>
+								<td><h:inputText value="#{monObjet.adresse}" /></td>
+							</tr>
+							<tr>
+								<td>email :</td>
+								<td><h:inputText value="#{monObjet.email}" /></td>
+							</tr>
+							<tr>
+								<td><p:commandButton id="updateClient" value="Modifier"
+										action="#{clientBean.updateLeClient(monObjet)}" /></td>
+
+							</tr>
+
+						</table>
+					</h:form>
+
+
+				</p:panel>
+				<div>
+					<br />
+				</div>
+
+				<p:panel header="Liste des Compte" style="width: 300;">
+					<p:dataTable var="mesCompte" value="#{maListCompte}">
+
+
+
+						<p:column headerText="Type de compte">
+							<h:outputText value="#{mesCompte.typeCompte}" />
+						</p:column>
+
+						<p:column headerText="Numero de compte">
+							<h:outputText value="#{mesCompte.numCompte}" />
+						</p:column>
+
+
+
+
+						<p:column headerText="Soldes">
+							<h:outputText value="#{mesCompte.soldeCompte}" /> Euros
+						</p:column>
+
+					</p:dataTable>
+				</p:panel>
+				<div>
+					<h:messages style="color:red"></h:messages>
+				</div>
+
+
+			</center>
+		</ui:define>
+	</ui:composition>
+</h:body>
+</html>

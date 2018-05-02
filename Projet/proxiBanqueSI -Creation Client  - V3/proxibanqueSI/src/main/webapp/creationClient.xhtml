@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html">
+<h:head>
+	<title>Creation client</title>
+
+	<!-- <h:style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: white;}
+
+</h:style> -->
+
+</h:head>
+
+<h:body>
+
+	<b><h:form style="text-align: center; font-size: 60px">Proxibanque</h:form></b>
+
+	<h:outputText value="Formulaire de création d'un client"
+		style="text-align: center; font-size: 25px"></h:outputText>
+
+	<br></br>
+
+	<h:form>
+		<h:panelGrid columns="3" border="0" cellpadding="10" cellspacing="1">
+
+			<h:outputLabel value="idClient" />
+			<h:inputText value="#{clientBean.idClient}" required="true" name="id"
+				id="idClient" />
+			<h:message for="idClient" />
+
+			<h:outputLabel value="nom" />
+			<h:inputText value="#{clientBean.nom}" required="true" name="nom"
+				id="nom" />
+			<h:message for="id" />
+
+			<h:outputLabel value="prenom" />
+			<h:inputText value="#{clientBean.prenom}" required="true"
+				name="prenom" id="prenom" />
+			<h:message for="id" />
+
+			<h:outputLabel value="email" />
+			<h:inputText value="#{clientBean.email}" required="true" name="email"
+				id="email" />
+			<h:message for="id" />
+
+			<h:outputLabel value="adresse" />
+			<h:inputText value="#{clientBean.adresse}" required="true"
+				name="adresse" id="adresse" />
+			<h:message for="id" />
+
+			<h:outputLabel value="codePostal" />
+			<h:inputText value="#{clientBean.codePostal}" required="true"
+				name="codePostal" id="codePostal" />
+			<h:message for="id" />
+
+			<h:outputLabel value="ville" />
+			<h:inputText value="#{clientBean.ville}" required="true" name="ville"
+				id="ville" />
+			<h:message for="id" />
+
+			<h:outputLabel value="idConseiller" />
+			<h:inputText value="#{clientBean.idConseiller}" required="true"
+				name="idConseiller" id="idConseiller" />
+			<h:message for="id" />
+
+			<f:facet name="footer">
+				<h:panelGroup style="display:block; text-align:center">
+					<h:commandButton value="Créer client"
+						action="#{clientBean.creerClient}" />
+				</h:panelGroup>
+			</f:facet>
+
+		</h:panelGrid>
+	</h:form>
+
+</h:body>
+
+</html>
